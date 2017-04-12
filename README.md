@@ -1,5 +1,4 @@
 # js-edu
-Learning JS
 Введение
 Основы JavaScript
 Качество кода
